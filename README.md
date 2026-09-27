@@ -79,5 +79,3 @@ O Firebase é utilizado para o login e armazenamento dos dados.
 O Firebase Authentication controla o cadastro e login dos usuários.
 
 O Cloud Firestore armazena informações dos usuários, idosos, medicamentos e contatos.
-
-O aplicativo também utiliza o AsyncStorage para manter alguns dados salvos localmente.
