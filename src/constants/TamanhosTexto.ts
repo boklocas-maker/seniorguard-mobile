@@ -1,0 +1,18 @@
+export const TAMANHOS_TEXTO = {
+	micro: 10,
+	pequeno: 12,
+	pequenoMedio: 13,
+	corpoPequeno: 14,
+	corpo: 15,
+	corpoAmplo: 16,
+	medio: 17,
+	medioAmplo: 18,
+	grande: 19,
+	grandeAmplo: 20,
+	tituloPequeno: 21,
+	tituloMedio: 22,
+	titulo: 23,
+	tituloSecao: 25,
+	destaque: 29,
+	destaqueGrande: 30,
+} as const
